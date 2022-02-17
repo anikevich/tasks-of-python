@@ -1,7 +1,9 @@
 #!/usr/bin/env python
+############################################ Recursion aproach ########################
 '''
 Реализуйте алгоритм для нахождения в односвязном списке k-го элемента
 с конца.
+Implement an algorithm to find the kth to last element of a singly linked list
 '''
 from typing import Optional, List
 
